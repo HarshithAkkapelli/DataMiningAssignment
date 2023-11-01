@@ -21,6 +21,6 @@
 
 
 
-🚀 **Star this repo if you find it inspiring! Let's make data science more accessible and fun for everyone!** 🌈
+🚀 **Star this repo if you find it inspiring! Let's make data science more accessible and fun for everyone!** 
 
 
